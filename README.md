@@ -1,6 +1,7 @@
 # Tic Tac Toe
 ## Using only HTML + CSS + JS
  <img src="game.png" alt="game" style="margin-left: 15px;" />
+ <a href="https://dhiraj31298.github.io/Tic-Tac-Toe/.">Play.
    
    It's play time, people!
 Many kids initial fascination with computers, like that of nerdy kids, had to do with computer games. They were drawn into the tiny simulated worlds that they could manipulate and in which stories (sort of) unfolded—more, I suppose, because of the way they projected their imagination into them than because of the possibilities they actually offered.
